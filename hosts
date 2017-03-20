@@ -1,43 +1,4 @@
-
 #version=201703192320
-#url=https://github.com/vokins/yhosts
-127.0.0.1 localhost
-::1             ip6-localhost
-127.0.0.1 XiaoQiang
-218.93.127.136 cdn.pcbeta.attachment.inimc.com
-218.93.127.136 cdn.pcbeta.css.inimc.com
-218.93.127.136 cdn.pcbeta.img.inimc.com
-218.93.127.136 cdn.pcbeta.js.inimc.com
-218.93.127.136 cdn.pcbeta.static.inimc.com
-218.93.127.136 bbs.pcbeta.com
-218.93.127.136 i.pcbeta.com
-218.93.127.136 m.pcbeta.com
-218.93.127.136 pcbeta.com
-218.93.127.136 static.template.pcbeta.com
-218.93.127.136 uc.pcbeta.com
-218.93.127.136 web.pcbeta.com
-218.93.127.136 www.pcbeta.com
-74.222.26.86 bbs.uvwxyz.xyz
-74.222.26.86 ipv6.uvwxyz.xyz
-74.222.26.86 uvwxyz.xyz
-74.222.26.86 www.uvwxyz.xyz
-74.222.26.90 bbs.uvwxyz.xyz
-74.222.26.90 ipv6.uvwxyz.xyz
-74.222.26.90 uvwxyz.xyz
-74.222.26.90 www.uvwxyz.xyz
-139.162.207.229 www.alfredapp.com
-5.196.172.196 www.dxomark.com
-43.245.63.22 cdn.dxomark.com
-151.101.76.249 github.global.ssl.fastly.net
-151.101.192.133 avatars1.githubusercontent.com
-151.101.192.133 avatars2.githubusercontent.com
-151.101.192.133 avatars3.githubusercontent.com
-151.101.192.133 camo.githubusercontent.com
-151.101.192.133 cloud.githubusercontent.com
-151.101.192.133 raw.githubusercontent.com
-151.101.192.133 assets-cdn.github.com
-192.30.253.116 api.github.com
-192.30.253.113 github.com
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activation.acronis.com
 127.0.0.1 activate.adobe.com
