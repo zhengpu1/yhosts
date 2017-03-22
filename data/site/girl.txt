@@ -8,6 +8,7 @@
 #m.5442.com
 127.0.0.1 bs.5442.com
 127.0.0.1 sdjs.5442.com
+127.0.0.1 jjd.5442.com
 127.0.0.1 52.fushibooks.com
 127.0.0.1 bdjs.2344.com
 127.0.0.1 d21.deyidai.cn
@@ -65,6 +66,7 @@
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.semmdh.net
+127.0.0.1 app.ibaiducdn.com
 127.0.0.1 wap.zgqlxw.com
 127.0.0.1 www.7080555.com
 127.0.0.1 www.3388pjdc.com
