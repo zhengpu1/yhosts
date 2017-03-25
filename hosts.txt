@@ -1,3 +1,4 @@
+127.0.0.1 localhost
 #acdsee
 127.0.0.1 acdid.acdsystems.com
 #acronis
