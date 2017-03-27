@@ -1,4 +1,47 @@
+<<<<<<< HEAD
 #version=201703221648
+=======
+
+#version=201703252110
+#url=https://github.com/vokins/yhosts
+127.0.0.1 localhost
+::1             ip6-localhost
+127.0.0.1 XiaoQiang
+218.93.127.136 cdn.pcbeta.attachment.inimc.com
+218.93.127.136 cdn.pcbeta.css.inimc.com
+218.93.127.136 cdn.pcbeta.img.inimc.com
+218.93.127.136 cdn.pcbeta.js.inimc.com
+218.93.127.136 cdn.pcbeta.static.inimc.com
+218.93.127.136 bbs.pcbeta.com
+218.93.127.136 i.pcbeta.com
+218.93.127.136 m.pcbeta.com
+218.93.127.136 pcbeta.com
+218.93.127.136 static.template.pcbeta.com
+218.93.127.136 uc.pcbeta.com
+218.93.127.136 web.pcbeta.com
+218.93.127.136 www.pcbeta.com
+74.222.26.86 bbs.uvwxyz.xyz
+74.222.26.86 ipv6.uvwxyz.xyz
+74.222.26.86 uvwxyz.xyz
+74.222.26.86 www.uvwxyz.xyz
+74.222.26.90 bbs.uvwxyz.xyz
+74.222.26.90 ipv6.uvwxyz.xyz
+74.222.26.90 uvwxyz.xyz
+74.222.26.90 www.uvwxyz.xyz
+139.162.207.229 www.alfredapp.com
+5.196.172.196 www.dxomark.com
+43.245.63.22 cdn.dxomark.com
+151.101.76.249 github.global.ssl.fastly.net
+151.101.192.133 avatars1.githubusercontent.com
+151.101.192.133 avatars2.githubusercontent.com
+151.101.192.133 avatars3.githubusercontent.com
+151.101.192.133 camo.githubusercontent.com
+151.101.192.133 cloud.githubusercontent.com
+151.101.192.133 raw.githubusercontent.com
+151.101.192.133 assets-cdn.github.com
+192.30.253.116 api.github.com
+192.30.253.113 github.com
+>>>>>>> vokins-yhosts/master
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activation.acronis.com
 127.0.0.1 activate.adobe.com
@@ -149,6 +192,7 @@
 127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 cdn1.njjlg.com
 127.0.0.1 url.tudown.com
+127.0.0.1 ccb.uncle-ad.com
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.lergao.com
@@ -334,6 +378,7 @@
 127.0.0.1 sta.jcjk0451.com
 127.0.0.1 1.yhzm.cc
 127.0.0.1 www.hao934.com
+127.0.0.1 www.1680go.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 adirects.com
@@ -912,6 +957,7 @@
 127.0.0.1 cdn.moji002.com
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 api721.analysys.cn
+127.0.0.1 irdna.izazamall.com
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 ad.beihai365.com
 127.0.0.1 afpimages.eastday.com
@@ -1006,6 +1052,7 @@
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
 127.0.0.1 m.flowcodeapp.com
+127.0.0.1 wan.yigyx.com
 127.0.0.1 hai.yzygo.com
 127.0.0.1 m.desaysmart.com
 127.0.0.1 e.kmwqxqh.com
@@ -1079,6 +1126,8 @@
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 m.aishiguolong.com
+127.0.0.1 e.aishiguolong.com
 127.0.0.1 m.breezily168.com
 127.0.0.1 e.breezily168.com
 127.0.0.1 m.guoshennet.com
@@ -1173,6 +1222,7 @@
 127.0.0.1 18.dingdianzw.com
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
+127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
 127.0.0.1 gmtw.wzflourish.com
@@ -1957,6 +2007,7 @@
 127.0.0.1 1.770765.cn
 127.0.0.1 2.770765.cn
 127.0.0.1 www.a0b11.com
+127.0.0.1 j.12365chia.com
 127.0.0.1 m.baidu.com.yiqisee.cn
 127.0.0.1 www.esptj.com
 127.0.0.1 js3810.yzh360.com
@@ -4575,7 +4626,6 @@
 127.0.0.1 pv.hd.sohu.com
 127.0.0.1 pv.ott.hd.sohu.com
 127.0.0.1 um.hd.sohu.com
-127.0.0.1 usr.mb.hd.sohu.com
 127.0.0.1 wl.hd.sohu.com
 127.0.0.1 api.k.sohu.com
 127.0.0.1 count.vrs.sohu.com
