@@ -2,7 +2,7 @@
 #version=201703221648
 =======
 
-#version=201703252110
+#version=201703262147
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -125,7 +125,6 @@
 127.0.0.1 www.laomaotao.net
 127.0.0.1 down.laomaotao.net
 127.0.0.1 www.ahhjyl.cn
-127.0.0.1 hk.jtsh123.com
 127.0.0.1 hao.tiandi.com
 127.0.0.1 hao916.com
 127.0.0.1 107.wuwho.cn
@@ -848,6 +847,7 @@
 127.0.0.1 uedas.qdmm.com
 127.0.0.1 s1.cmfu.com
 127.0.0.1 ut2.shuqistat.com
+127.0.0.1 ad.bayescom.com
 127.0.0.1 ad.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 m.ad.zhangyue.com
@@ -1126,6 +1126,7 @@
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 m.hnctsm.com
 127.0.0.1 m.aishiguolong.com
 127.0.0.1 e.aishiguolong.com
 127.0.0.1 m.breezily168.com
@@ -1208,6 +1209,8 @@
 127.0.0.1 e.mingysh.com
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
+127.0.0.1 tyu.m.dingdianzw.com
+127.0.0.1 sj2.sscefsol.com.cn 
 127.0.0.1 cgi.chenyigo.cn
 127.0.0.1 img.shangxize.cn
 127.0.0.1 p4.95558000.com
@@ -1301,6 +1304,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 js.cnscdj.com
 127.0.0.1 js7274.qsbz2011.com
 127.0.0.1 s.qzkxt.com
 127.0.0.1 api.ahjinshu.com
@@ -2573,6 +2577,7 @@
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 un.52rkl.cn
+127.0.0.1 1.chcx.cn
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
 127.0.0.1 trace.m1905.cn
