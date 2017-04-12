@@ -1,4 +1,18 @@
-﻿小米日历频道订阅但是可以去广告
+﻿<iframe src="http://img1.126.net/advertisement/contract/wzy60_0927.html" width="600" height="180" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<script src="http://img2.126.net/ntesrich/auto/adbox/adbox-v2.0.4-140307-for-inside.js"></script>
+http://api.jxedt.com/d/jxedtshow/196/
+esc.58.com/gz/comm/guaziurl.json?count=1&type=m&gzsrc=jxedt
+t3.58cdn.com.cn/brandads/jxedt/back/n_v1bkujjd2vo4svqrvmqeyq_cdebc1e04c8f0db9.png
+t2.58cdn.com.cn/brandads/jxedt/back/n_v1bl2lwtju5arvrz5a6vza_6c7ea76f39c78102.png
+t1.58cdn.com.cn/brandads/jxedt/back/n_v1bkujjd6pol7vo66e5aha_cdebc1e04c8f0db9.jpg
+zzz7.52896368.com/cpv/images/close.png
+#辽宁联通HTTP劫持
+127.0.0.1 pc.quansj.cn
+127.0.0.1 ad.xxguan.cn
+127.0.0.1 pic.517m.cn
+ad.xxguan.cn 这个之前我报过了 但是 应该划到劫持里
+
+小米日历频道订阅但是可以去广告
 #miui-calendar
 127.0.0.1 api.comm.miui.com
 
